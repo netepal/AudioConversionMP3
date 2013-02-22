@@ -21,9 +21,9 @@
     
     NSString *string = @"saima";
     NSLog(@"string");
-    NSString *string1 = @"This is a git test......Push to the server";
 
-    NSLog(@"%@%@", string, string1);
+
+    NSLog(@"%@", string);
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
