@@ -19,7 +19,6 @@
     [super viewDidLoad];
     NSLog(@"Testing changes on github...");
     
-    NSString *string = @"saima";
     NSLog(@"string");
 
 
