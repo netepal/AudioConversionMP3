@@ -18,7 +18,8 @@
 {
     [super viewDidLoad];
     NSLog(@"Testing changes on github...");
-    
+    ///
+    NSStrung *string;
     NSLog(@"string");
 
 	// Do any additional setup after loading the view, typically from a nib.
