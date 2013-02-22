@@ -20,7 +20,6 @@
     NSLog(@"Testing changes on github...");
     
     NSLog(@"string");
-    NSLog(@"%@",strgin);
 
 	// Do any additional setup after loading the view, typically from a nib.
 }
